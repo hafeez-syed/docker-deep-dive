@@ -1,1 +1,1 @@
-Flask==0.12.3flask-redis==0.3
+flask>=0.12.3flask-redis==0.3
